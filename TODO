@@ -1,0 +1,41 @@
+labwc			Close menu on Super press
+labwc-themes		Add the gutter-snipe theme
+t2play			Remove cyaml dependecny
+labwc			Chase the sway changs since May
+labwc-themes		Fix the labwc-artwork theme mess
+labwc			Remove some deprecated warnings in labwc
+labwc-tests		Add all the pipemenus scripts
+teallach		Add <prompt> to Exit
+teallach		Add tl-text-editor tl-www-browser tl-file-manager tl-terminal
+teallach-nitrogen	Support user setting directories (rather than just searching ~/Pictures)
+teallach-nitrogen	Support multiple outputs
+teallach		Add post-installation-script for gsettings and bash-prompt
+teallach		Add portals-teallach.conf
+teallach		Add mimeapps.conf
+teallach		Add ~/.config/teallach/config with env vars to be sourced (TEALLACH_TIMEOUT_SCREENLOCK, TEALLACH_TIMEOUT_POWERSAVE)
+teallach		Add man pages - e.g. for teallach-menu
+teallach		Use bl-places-pipemenu
+teallach		Add "Powersave Mode" by `sleep 1; pkill -USR1 swayidle`
+teallach		Add quick-shell panel
+teallach		Add quick-shell conky-style-info-thing for keybinds
+labwc			Teach dnd to abort on Escape-key
+labwc			Add -B (--config-home <dir>) and make it work with -m
+labwc			Set LABWC_CONFIG_{RCXML,ENVIRONMENT,MERGE} (as colon separated environment variables)
+labwc			menu: Keep within output
+labwc			menu: menu.title.bg.border.color: #7cb6ec
+labwc			menu: menu.item.active.bg.border.color: TBC
+labwc			menu: osd.label.text.color: #585858
+labwc			doc: document all user-data fields
+labwc			doc: write layer-shell man page (#1599)
+labwc			doc: man-page show all window rules properties as elements rather than attributes
+labwc			Hide layer-shell popups hide when focus changes
+labwc			Tweak log levels INFO->DEBUG for rare ones
+labwc-scope		Integrate extra section with main document
+labwc-menu-generator	Cache output and check mtime on directories
+labwc-menu-generator    Make README more informative with example of how to use it with labwc
+labwc-menu-generator    Add contrib/example-dynamic-root-menu
+labwc-menu-generator	post_process to set one name variable only
+labwc-menu-generator	Combine name + name_localized into one variable (to make qsort compare functions and others simpler; help sort-compare; should remove ? : to checks in main.c
+labwc-menu-generator    Do should_show() checks in desktop.c and just remove from list if not needed
+trappist		Support scale
+trappist		Support multiple outputs
