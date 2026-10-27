@@ -1,8 +1,13 @@
-labwc			Close menu on Super press
+teallach		Compare current rc.xml with upstream
+labwc-themes		README: add intro and scrot
 labwc-themes		Add the gutter-snipe theme
-t2play			Remove cyaml dependecny
+labwc-themes		Add the Demo theme (MacOS)
+labwc			Fix QWaylandXdgSurface::isExposed() [#3747]
+labwc-tweaks		Prepare release alongside labwc-0.20.3
+labwc-themes		Release 0.1.0
+t2play			Remove libxml2 dependecny
+labwc			Close menu on Super press
 labwc			Chase the sway changs since May
-labwc-themes		Fix the labwc-artwork theme mess
 labwc			Remove some deprecated warnings in labwc
 labwc-tests		Add all the pipemenus scripts
 teallach		Add <prompt> to Exit
@@ -32,7 +37,6 @@ labwc			Hide layer-shell popups hide when focus changes
 labwc			Tweak log levels INFO->DEBUG for rare ones
 labwc-scope		Integrate extra section with main document
 labwc-menu-generator	Cache output and check mtime on directories
-labwc-menu-generator    Make README more informative with example of how to use it with labwc
 labwc-menu-generator    Add contrib/example-dynamic-root-menu
 labwc-menu-generator	post_process to set one name variable only
 labwc-menu-generator	Combine name + name_localized into one variable (to make qsort compare functions and others simpler; help sort-compare; should remove ? : to checks in main.c
