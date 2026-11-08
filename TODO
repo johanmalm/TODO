@@ -1,8 +1,6 @@
 labwc-themes		Add the gutter-snipe theme
 labwc-themes		Add the Demo theme (MacOS)
-labwc			Fix QWaylandXdgSurface::isExposed() [#3747]
 t2play			Remove libxml2 dependecny
-labwc			Close menu on Super press
 labwc			Chase the sway changs since May
 labwc			Remove some deprecated warnings in labwc
 labwc-tests		Add all the pipemenus scripts
